@@ -9,6 +9,9 @@ pip install Flask-SQLAlchemy
 I suggest you to install extendsion in python virtual environment, so that is do not interfere system if an error occurs.
 But it still fine, if you do not install in python virtual environment.
 
+file setting.json will be use if there is an error in MySQL which is related pylint
+create folder .vscode and put file setting.json in that folder
+
 # How to install python virtual environment
 https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html#install-virtualenv-win
 
