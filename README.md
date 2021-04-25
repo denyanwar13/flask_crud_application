@@ -12,7 +12,7 @@ But it still fine, if you do not install in python virtual environment.
 # How to install python virtual environment
 https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html#install-virtualenv-win
 
-# Capture an Application
+# Capture an application
 
 ![Capture1](https://user-images.githubusercontent.com/1334433/116001577-a3faf380-a627-11eb-97bb-f81e75b93614.JPG)
 
